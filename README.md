@@ -1,16 +1,18 @@
 Test Credentials
 
 user log in 
-username 12345
-password 1234
+username: 12345
+password:1234
 
-vendor login 
-username coffee
-password 123
+vendor login
+
+username: coffee
+password :123
 
 admin 
-username  admin
-password  admin123
+
+username : admin
+password : admin123
 
 Here is a professional, hackathon-ready `README.md` file. You can copy-paste this directly into your GitHub repository.
 
