@@ -14,11 +14,6 @@ admin
 username : admin
 password : admin123
 
-Here is a professional, hackathon-ready `README.md` file. You can copy-paste this directly into your GitHub repository.
-
-It highlights the "AI" capabilities and aligns perfectly with the problem statement to impress the judges.
-
----
 
 # 🍔 Canteen Rush AI
 
