@@ -137,7 +137,6 @@ By shifting from "Reactive Cooking" (cooking in bulk hoping for sales) to "Proac
 
 ### 👥 Team
 
-* **Developer:** [Your Name]
-* **Role:** Full Stack Engineer
+* **Developers:** Rehan , chris and anamika
 
-*Built for [Hackathon Name] 2025.*
+*Built for revelations 2026 Hackathon.*
