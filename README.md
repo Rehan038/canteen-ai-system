@@ -60,18 +60,6 @@ password : admin123
 * **Real-Time Updates:** `streamlit-autorefresh`
 * **Data Processing:** Pandas
 
----
-
-## 📸 Screenshots
-
-*(Add your screenshots here after running the app)*
-
-| Student Ordering Flow | Vendor Dashboard |
-| --- | --- |
-|  |  |
-
----
-
 ## ⚡ Installation & Setup
 
 1. **Clone the Repository**
